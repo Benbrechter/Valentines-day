@@ -42,3 +42,21 @@ margin-left: 30px;
     border-radius: 1vh;
 }
 
+@media screen and (width <= 780px) {
+    body {
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+     align-content: center;
+    }
+ }
+
+ @media screen and (width <= 780px) {
+    .kisses {
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+     align-content: center;
+     margin-left: 180px;
+    }
+ }

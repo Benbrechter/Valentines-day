@@ -18,5 +18,5 @@ img1.setAttribute("style", "display: none;")
 btnYes.setAttribute("style", "display: none;") 
 btnNo.setAttribute("style", "display: none;") 
 ptag.innerText = "It is A DATEEE!!!!!I am free after 9:30 I have to present my project :////. I def want to hang tho! "
-ptag.setAttribute('style', "font-size: 80px;")
+ptag.setAttribute('style', "font-size: 60px;")
 }
